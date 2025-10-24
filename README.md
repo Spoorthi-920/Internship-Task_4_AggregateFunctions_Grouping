@@ -13,7 +13,6 @@ It demonstrates how to summarize and analyze data using:
 
 These queries help in deriving meaningful insights from tabular data.
 
----
 
 ## Dataset
 A sample **employees** table is used for practice:
@@ -29,7 +28,6 @@ A sample **employees** table is used for practice:
 
 The dataset is included in the SQL script, so it can be **created and used directly**.
 
----
 
 ## SQL Queries
 The `task4_aggregation_grouping.sql` file includes examples of:
@@ -52,5 +50,5 @@ The `task4_aggregation_grouping.sql` file includes examples of:
   ```
 
 ## Tools Used:
-- ##MySQL Workbench## – for creating and querying MySQL databases
+- ## MySQL Workbench ## – for creating and querying MySQL databases
 
