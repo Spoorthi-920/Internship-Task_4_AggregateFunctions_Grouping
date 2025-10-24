@@ -50,5 +50,5 @@ The `task4_aggregation_grouping.sql` file includes examples of:
   ```
 
 ## Tools Used:
-- ## MySQL Workbench ## – for creating and querying MySQL databases
+- **MySQL Workbench** –  for creating and querying MySQL databases
 
